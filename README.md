@@ -38,6 +38,11 @@
  irb(main):001:0> quit
 
  $ ruby-railties-4.0
+ 
  $ rvm list
+ 
  $ rvm (version)
+ 
+ $ source ~/.rvm/scripts/rvm
+ 
  $ gem install rails
