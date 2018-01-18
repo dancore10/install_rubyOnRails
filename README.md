@@ -1,6 +1,6 @@
 # install_rubyOnRails
 
---> THE FIRST STEP IS INSTALLL RUBY 
+--> THE FIRST STEP IS INSTALL RUBY 
 
  $ sudo apt-get install ruby-full 
 
