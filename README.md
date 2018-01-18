@@ -36,3 +36,8 @@
  hola
  => nil
  irb(main):001:0> quit
+
+ $ ruby-railties-4.0
+ $ rvm list
+ $ rvm (version)
+ $ gem install rails
