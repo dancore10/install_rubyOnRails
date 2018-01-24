@@ -1,0 +1,19 @@
+--- COMANDOS PARA RUBY ON RAILS
+
+(usar flexbox)
+
+-> crear controlador
+	rails generate controller welcome(controlador) index(acción)
+-> eliminar controlador
+	rails destroy controlller welcome index
+
+-> crear modelos 
+	rails generate model article
+-> aliminar modelos 
+	rails destroy model article
+
+-> migrar DB
+	rake db:migrate
+-> eliminar DB 
+	rake db:rollback
+
